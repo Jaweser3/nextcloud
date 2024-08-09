@@ -1,1 +1,1 @@
-systemctl stop apache2
+systemctl start apache2
